@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #333333;
+    font: 40px Verdana;
+    color: #cccccc;
+}
+
+.brd {
+    border: 2px solid black;
+}
+
+input[type="text"] {
+    width: 100px;
+}
+
+input[type="button"] {
+    width: 60px;
+}
+
+div {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
